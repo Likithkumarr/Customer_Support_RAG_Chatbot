@@ -1,0 +1,14 @@
+Billing Help Guide
+
+How to check billing details:
+1. Login to your account.
+2. Go to billing section.
+3. View payment history.
+
+How to cancel subscription:
+1. Go to account settings.
+2. Click "Subscription".
+3. Select "Cancel Subscription".
+
+Refund policy:
+Refunds are available within 7 days of purchase.

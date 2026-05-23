@@ -1,0 +1,12 @@
+Subscription Management
+
+To manage your subscription:
+
+1. Login to your account.
+2. Navigate to "Account Settings".
+3. Click on "Subscription".
+
+From here you can:
+- Upgrade your plan
+- Downgrade your plan
+- Cancel your subscription

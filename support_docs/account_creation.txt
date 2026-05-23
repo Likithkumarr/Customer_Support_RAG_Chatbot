@@ -1,0 +1,11 @@
+Account Creation Help
+
+To create a new account:
+
+1. Visit the website homepage.
+2. Click on the "Sign Up" button.
+3. Enter your name, email address, and password.
+4. Click "Create Account".
+5. Verify your email using the link sent to your inbox.
+
+If you do not receive the verification email, check your spam folder.

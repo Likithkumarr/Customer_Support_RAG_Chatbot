@@ -1,0 +1,18 @@
+Account Help Guide
+
+How to create an account:
+1. Go to the website homepage.
+2. Click on "Sign Up".
+3. Enter your email and password.
+4. Verify your email address.
+
+How to change email:
+1. Login to your account.
+2. Go to account settings.
+3. Click "Change Email".
+4. Enter your new email and confirm.
+
+How to delete account:
+1. Go to account settings.
+2. Scroll to the bottom.
+3. Click "Delete Account".

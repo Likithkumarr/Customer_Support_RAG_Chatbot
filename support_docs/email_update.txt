@@ -1,0 +1,9 @@
+Updating Email Address
+
+To change your email address:
+
+1. Login to your account.
+2. Go to "Profile Settings".
+3. Click "Change Email".
+4. Enter your new email.
+5. Verify the new email.

@@ -1,0 +1,8 @@
+Account Security Tips
+
+To keep your account secure:
+
+1. Use a strong password.
+2. Do not share your login credentials.
+3. Enable two-factor authentication.
+4. Log out from shared devices.
